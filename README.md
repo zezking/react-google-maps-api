@@ -42,12 +42,11 @@ Fork original repo at <https://github.com/JustFly1984/react-google-maps-api>. Cl
 - `cd react-google-maps-api` - move to newly created folder
 - `cp .storybook/example.maps.config.ts .storybook/maps.config.ts` - create file with API Key
 - `yarn install` - install dependencies
-- `yarn bootstrap` - setup workspace
 - `yarn storybook` - run storybook server
 
 Any changes you make to src folders of contained packages should reflect on the storybook server.
 
-### To contribute
+### To contributepack
 
 Create a feature/fix branch on your own fork and make pull request towards develop branch of the original repo.
 
